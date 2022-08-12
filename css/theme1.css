@@ -57,7 +57,7 @@ ul.page-numbers li a, ul.page-numbers li span {
   
     overflow: hidden;
     position: relative;
-    background: #fff;
+    background: #ededed;
 }
 .reviewlist .media-heading {
     color: #ffffff;}
@@ -168,7 +168,7 @@ a {color:#DE7E25;}
 .productBorder .productMetas a {
     background-color: #fff!important;}
 .productBorder .productBorderHover {padding:0!important; }
-.verticalInner h4{margin-top: 50%; margin-left: 30px;margin-right: 30px;}
+.verticalInner h4{margin-top: 50%; margin-left: 38px;margin-right: 30px;}
 /*End Revised Product layout*/
 
 .mainshopthumb {min-height: 27.89px;}
@@ -1548,7 +1548,7 @@ div#below-main-boxes>div {
     padding-top: 30px;
 }
 .productBorder.chkProductID:hover .product-rating{display:none !important;}
-.frontinfo h4{font-size:13px;margin-top: 8px;}
+.frontinfo h4{font-size:13px;margin-top: 0px;}
 .product-rating{margin-top:3px;}
 .product-rating img{margin-bottom: 4px;}
 
@@ -3009,6 +3009,7 @@ aside.sidebar span.current-price {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color:#fff;
 }
 .address a {
     font-weight:inherit !important;
